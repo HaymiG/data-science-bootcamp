@@ -1,4 +1,4 @@
-# Data Science Bootcamp – Python Basics
+# 🐍 Data Science Bootcamp – Python Basics
 
 ## Overview
 
@@ -35,7 +35,7 @@ I completed **all tasks from all levels** to strengthen my understanding of Pyth
 
 ---
 
-## How to Run
+## ▶️ How to Run
 
 Run any Python file:
 
@@ -45,6 +45,7 @@ python filename.py
 
 ---
 
-## Note
+
+## 🚀 Note
 
 This project is part of my Data Science learning journey, focusing on building a strong foundation in Python.
